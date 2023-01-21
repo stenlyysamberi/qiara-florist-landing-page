@@ -1,4 +1,4 @@
-# Responsive Website Delivery 🚚
+<!-- # Responsive Website Delivery 🚚
 ## [Watch it on youtube](https://youtu.be/xOQU3YNHxJc)
 ### Responsive Website Delivery
 
@@ -10,4 +10,4 @@
 
 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
-![Delivery website](/preview.png)
+![Delivery website](/preview.png) -->
