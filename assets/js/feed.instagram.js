@@ -2,7 +2,7 @@ var userFeed = new Instafeed({
 
     get: 'qiara.floristt',
     target: "instafeed",
-    accessToken: 'IGQVJYdGRMdzRUcFo5LU5Rc0lOS0tfZAW93aHotWW02MkJKYzBZAVEhMdmdSaUFjMHNEbDJRa0lYdS1GY0ZALa3hleERZAMy1wMTV0VFdkZAzVqMjB0eXhXdGg4WXJyTDlIeWpJdXlYSGpIb0dSSVdsNlhDdQZDZD',
+    accessToken: 'IGQVJYMEIxcTloanNra2VLMHJJTXExWVJ5bkVIWm5CdVJWMTdmdHZADcUVhWE1jY3NWREk0em1IREl4SWNVYkJPbmVpZA3ltSkdzSXJUYkdteC1iUHk1azc1QU00NUFobWxQaWtacFVlem43WWZA6bzVhTwZDZD',
     resolution: 'low_resolution',
     limit: 2,
     debug: true,
