@@ -419,10 +419,23 @@ body.dark-theme {
   font-size: 14px;
 }
 
-#instafeed img{
-  border-radius: 6px;
-  width: 70px;
+#instafeed {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(40px, 1fr));
+  grid-gap: 10px;
 }
+
+.image{
+  width: 80px;
+  position: relative;
+}
+
+.image img{
+  border-radius: 5px;
+}
+
+
+
 
 .footer__copy {
   margin-top: 6rem;
