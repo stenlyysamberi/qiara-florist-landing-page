@@ -413,6 +413,17 @@ body.dark-theme {
   color: var(--title-color);
 }
 
+.link{
+  font-family: var(--body-font);
+  color: var(--text-color);
+  font-size: 14px;
+}
+
+#instafeed img{
+  border-radius: 5px;
+  width: 70px;
+}
+
 .footer__copy {
   margin-top: 6rem;
   text-align: center;
